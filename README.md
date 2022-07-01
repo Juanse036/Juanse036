@@ -1,6 +1,6 @@
-<div align="center"> ### Hey!👋, Soy Juan Se' </ div>
+<div font-size="20px"> ### Hey!👋, Soy Juan Se' </ div>
 
-<div align="center">
+<div>
       <p>Soy Front-End Developer con experiencia en:<p>
 </div>
 
