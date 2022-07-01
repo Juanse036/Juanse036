@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Juan Se' FullStack Developer
 
-###### You can check some of my projects here:
+##### You can check some of my projects here:
 
 [Api Movie](https://movie-api-zeta.vercel.app/)  
 [Weather APP](https://weather-app-jse.vercel.app/)  
