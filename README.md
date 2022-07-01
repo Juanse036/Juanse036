@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Juan Se' FullStack Developer
 
+###### You can check some of my projects here:
+
+>Movie Api
+>Weather APP
+>Tabla Elecciones
+
 <!--
 **Juanse036/Juanse036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
