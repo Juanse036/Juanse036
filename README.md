@@ -1,6 +1,6 @@
 ### Hey!👋, Soy Juan Se' FullStack Developer
 
-####Tecnologias con las que traajo
+#### Tecnologias con las que traajo
 
 <div align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
