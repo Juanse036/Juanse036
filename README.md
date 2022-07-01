@@ -1,4 +1,4 @@
-### Hey!👋, Soy Juan Se'
+### Hola!👋, Soy Juan Se'
 
 <div>
       <p>Soy Front-End Developer con experiencia en:<p>
