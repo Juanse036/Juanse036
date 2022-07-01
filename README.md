@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />       
 </div>
 
-##### Puedes mirar algunos de mis proyectos aquí:
+#### Puedes mirar algunos de mis proyectos aquí:
 
 [Api Movie](https://movie-api-zeta.vercel.app/)  
 [Weather APP](https://weather-app-jse.vercel.app/)  
