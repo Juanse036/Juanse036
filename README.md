@@ -1,6 +1,6 @@
-### Hey!👋, Soy Juan Se' 
+<div align="center"> ### Hey!👋, Soy Juan Se' </ div>
 
-<div >
+<div align="center">
       <p>Soy Front-End Developer con experiencia en:<p>
 </div>
 
