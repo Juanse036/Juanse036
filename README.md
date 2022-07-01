@@ -1,6 +1,8 @@
-### Hey!👋, Soy Juan Se' FullStack Developer
+### Hey!👋, Soy Juan Se' 
 
-#### Tecnologías con las que trabajo
+<div >
+      <p>Soy Front-End Developer con experiencia en:<p>
+</div>
 
 <div align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
