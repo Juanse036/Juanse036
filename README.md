@@ -1,4 +1,4 @@
-<div font-size="20px"> ### Hey!👋, Soy Juan Se' </ div>
+### Hey!👋, Soy Juan Se'
 
 <div>
       <p>Soy Front-End Developer con experiencia en:<p>
