@@ -19,6 +19,12 @@
 [Weather APP](https://weather-app-jse.vercel.app/)  
 [Tabla Elecciones](https://tabla-elecciones.herokuapp.com/)  
 
+#### En este momento me encuentro aprendiendo:
+<div align="center">
+      <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />   
+</div>
+
+
 
 
 
