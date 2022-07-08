@@ -21,7 +21,7 @@
 
 #### En este momento me encuentro aprendiendo:
 <div align="center">
-      <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />   
+      <img src="[https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" />   
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />         
 </div>
 
