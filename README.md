@@ -12,11 +12,15 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />              
 </div>
 
-### Puedes mirar algunos de mis proyectos aquí:
+##Puede acceder a mi portafolio personale aquí:
+[Personal Portfolio](https://juanse036.vercel.app/)  
+
+### O puedes mirar algunos de mis proyectos aquí:
 
 [Api Movie](https://movie-api-zeta.vercel.app/)  
 [Weather APP](https://weather-app-jse.vercel.app/)  
 [Tabla Elecciones](https://tabla-elecciones.herokuapp.com/)  
+[Personal Portfolio](https://juanse036.vercel.app/)  
 
 #### En este momento me encuentro aprendiendo:
 <div align="center">
