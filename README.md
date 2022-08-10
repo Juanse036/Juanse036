@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />              
 </div>
 
-##Puede acceder a mi portafolio personale aquí:
+## Puedes acceder a mi portafolio personal aquí:
 [Personal Portfolio](https://juanse036.vercel.app/)  
 
 ### O puedes mirar algunos de mis proyectos aquí:
