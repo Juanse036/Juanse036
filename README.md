@@ -21,6 +21,8 @@
 [Weather APP](https://weather-app-jse.vercel.app/)  
 [Tabla Elecciones](https://tabla-elecciones.herokuapp.com/)  
 [Personal Portfolio](https://juanse036.vercel.app/)  
+[Open Trivia](https://open-trivia-beige.vercel.app/) 
+
 
 #### En este momento me encuentro aprendiendo:
 <div align="center">
