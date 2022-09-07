@@ -20,7 +20,7 @@
 [Api Movie](https://movie-api-zeta.vercel.app/)  
 [Weather APP](https://weather-app-jse.vercel.app/)  
 [Tabla Elecciones](https://api-xml-elecciones.vercel.app/)  
-[Open Trivia](https://open-trivia-beige.vercel.app/) 
+[Open Trivia](https://open-trivia-beige.vercel.app/)  
 [Personal Portfolio](https://juanse036.vercel.app/)  
 
 
